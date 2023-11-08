@@ -225,7 +225,7 @@ a {
 }
 
 .bottom_part {
-  width: 120vh; 
+  width: 100vw; 
   min-height: 5vh;
   z-index: 2;
 }
@@ -425,7 +425,7 @@ a {
 }
 
 .bottom_part {
-  width: 120vh; 
+  width: 100vw; 
   min-height: 5vh;
   z-index: 2;
 }
