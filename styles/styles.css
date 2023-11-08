@@ -45,7 +45,7 @@ a {
 .head_bar {
   display: flex;
   align-items: center;
-  width: 150vw;
+  width: 100vw;
   min-height: 8vh;
   background-color: #f0f0f0;
   position: sticky; 
